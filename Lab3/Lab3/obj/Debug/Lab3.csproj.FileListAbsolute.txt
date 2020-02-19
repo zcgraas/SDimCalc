@@ -1,0 +1,9 @@
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\zcgra\OneDrive\Documents\UofL\2020 Spring Semester\CIS 199\Labs\Lab 3\Lab3\Lab3\obj\Debug\Lab3.pdb
